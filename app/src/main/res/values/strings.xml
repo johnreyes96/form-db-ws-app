@@ -1,12 +1,8 @@
 <resources>
-    <string name="app_name">APP</string>
-    <!-- Strings used for fragments for navigation -->
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
-
+    <string name="app_name">Registrar cantante</string>
+    <string name="save">Guardar</string>
     <string name="singer">Nombre cantante</string>
     <string name="singer_input">Ingrese nombre del cantante</string>
 
     <string name="os_itm">SISTEMAS OPERATIVOS - ITM!</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 </resources>
