@@ -1,5 +1,6 @@
 <resources>
-    <string name="app_name">Registrar cantante</string>
+    <string name="app_name">APP</string>
+    <string name="btn_lbl_save">Registrar cantante</string>
     <string name="save">Guardar</string>
     <string name="singer">Nombre cantante</string>
     <string name="singer_input">Ingrese nombre del cantante</string>
